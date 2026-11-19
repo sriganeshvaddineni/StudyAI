@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+studai.db
+app_backup.py
+test_gemini.py
+test_search.py
+__pycache__/
+*.pyc
+.venv/
+venv/
